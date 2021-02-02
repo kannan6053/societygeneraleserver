@@ -1,0 +1,2 @@
+INSERT INTO employees(id, first_name, last_name, email_address) VALUES (10000,'society','society','societygenerale@gmail.com');
+INSERT INTO employees(id, first_name, last_name, email_address) VALUES (10001,'delete','delete','societygenerale@gmail.com');
